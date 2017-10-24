@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Renderer
+comment1.params=width\ height
+comment1.target=Renderer(int,\ int)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Plotter
+comment1.params=width\ height
+comment1.target=Plotter(int,\ int)
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=x
+comment3.target=double\ getValue(double)
+numComments=4
